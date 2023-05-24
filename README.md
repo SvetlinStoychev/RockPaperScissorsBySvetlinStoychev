@@ -45,4 +45,9 @@ Acknowledgments
 
 This project was created as a learning exercise and is based on the classic game of Rock Paper Scissors.
 
+## Screenshot
+
+![1](https://github.com/SvetlinStoychev/RockPaperScissorsBySvetlinStoychev/assets/133974226/773e88f8-5b5a-481c-9d1e-6c24e4cbb88f)
+![2](https://github.com/SvetlinStoychev/RockPaperScissorsBySvetlinStoychev/assets/133974226/d5dafa4b-84ae-4760-a3e6-dc30a3bf0eda)
+![3](https://github.com/SvetlinStoychev/RockPaperScissorsBySvetlinStoychev/assets/133974226/5cd2c65d-1f34-4a5b-b4c5-a39489a6abad)
 
