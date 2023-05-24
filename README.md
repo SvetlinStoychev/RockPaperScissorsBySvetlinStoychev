@@ -46,6 +46,3 @@ Acknowledgments
 This project was created as a learning exercise and is based on the classic game of Rock Paper Scissors.
 
 
-# Rock Paper Scissors Geme
-Rock Paper Scissors game in console
-https://replit.com/@SvetlinStoychev/RockPaperScissors
