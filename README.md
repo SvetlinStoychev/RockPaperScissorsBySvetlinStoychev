@@ -1,11 +1,15 @@
-#Rock Paper Scissors
+# Rock Paper Scissors
 
 This is a simple Java console-based game of Rock Paper Scissors. It allows you to play against the computer and keeps track of the scores.
-Instructions:
-
-   1. Clone the repository or download the source code files.
-   2. Open the project in your Java development environment.
-   3. Compile and run the RockPaperScissors class.
+1. Instructions:
+     1. Open this link: https://replit.com/@SvetlinStoychev/RockPaperScissors
+     2. Click on play button
+     3. Enjoy the game
+     
+2. Instructions:
+     1. Clone the repository or download the source code files.
+     2. Open the project in your Java development environment.
+     3. Compile and run the RockPaperScissors class.
 
 How to Play:
 
